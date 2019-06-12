@@ -2,7 +2,7 @@
 
 # ----------------------
 # KUDU Deployment Script
-# Version: 0.2.2
+# Version: ???? 
 # ----------------------
 
 # Helpers
